@@ -1,14 +1,19 @@
 {
   "status": {
-  "type": "success",
-  "message": "Success",
-  "code": 200,
-  "error": {}
-},
-"data": {
+    "type": "success",
+    "message": "Success",
+    "code": 200,
+    "error": {}
+  },
+  "data": {
     "user": {
-      "username": "LeopardWong",
-      "email": "leopardwong@onelogin.com",
+      "username": "Leopard_Wong",
+      "email": "leopardwong0902@gmail.com",
+      "firstname": "Yuk Fai",
+      "lastname": "Wong",
+      "phone": "+1 (647) 675 0197"
     },
+    "expires_at": "2016/01/07 05:56:21 +0000",
+    "session_token": "9x8869x31134x7906x6x54474x21x18xxx90857x"
   }
 }
