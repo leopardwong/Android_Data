@@ -1,0 +1,30 @@
+{
+  "status": {
+    "type": "success",
+    "message": "Success",
+    "code": 200,
+    "error": {}
+  },
+  "data": {
+    "plan": [
+      {
+        "plan_id": 1,
+        "catagory_id": 3,
+        "plan_name": "MPF",
+        "total_amount": 123456,
+        "contribution": "111111",
+        "gain_lose_amount": 12345,
+        "is_profit": "false"
+      },
+      {
+        "plan_id": 2,
+        "catagory_id": 4,
+        "plan_name": " Investment Plan",
+        "total_amount": 111111,
+        "contribution": "123456",
+        "gain_lose_amount": 12345,
+        "is_profit": "true"
+      }
+    ]
+  }
+}
