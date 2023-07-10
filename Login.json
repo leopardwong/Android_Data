@@ -1,0 +1,19 @@
+{
+  "status": {
+  "type": "success",
+  "message": "Success",
+  "code": 200,
+  "error": {}
+},
+"data": {
+    "user": {
+      "username": "ashley.akua",
+      "email": "ashley.akua@onelogin.com",
+      "firstname": "Ashley",
+      "id": 88888888,
+      "lastname": "Akua"
+    },
+    "expires_at": "2016/01/07 05:56:21 +0000",
+    "session_token": "9x8869x31134x7906x6x54474x21x18xxx90857x"
+  }
+}
