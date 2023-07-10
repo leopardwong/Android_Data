@@ -1,0 +1,32 @@
+{
+  "status": {
+    "type": "success",
+    "message": "Success",
+    "code": 200,
+    "error": {}
+  },
+  "data": {
+    "invest_summary": [
+      {
+        "category_id": 1,
+        "invest_catagory_name": "Life/Save",
+        "invest_plan_amount": 0
+      },
+      {
+        "category_id": 2,
+        "invest_catagory_name": "Health",
+        "invest_plan_amount": 0
+      },
+      {
+        "category_id": 3,
+        "invest_catagory_name": "MPF/ORSO/Pension",
+        "invest_plan_amount": 1
+      },
+      {
+        "category_id": 4,
+        "invest_catagory_name": "Invest/Investment-linked",
+        "invest_plan_amount": 2
+      }
+    ]
+  }
+}
